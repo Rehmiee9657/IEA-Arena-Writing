@@ -70,9 +70,9 @@ Example headlines:
 - First-person essays with a named framework woven in (not sold) outperform listicles in these tags.
 - Voice: quiet authority. Writes as someone who has been there, not someone selling a ladder.
 
-## Reference documents
-- `THE 6-STEP IEA SYSTEM.pdf` → full text now canonicalized in **`IEA-SYSTEM.md`** ✅
-- `A Way Back to Yourself.pdf` — not yet received in workspace (pasted text still welcome)
+## Reference documents (both received & canonicalized)
+- `THE 6-STEP IEA SYSTEM.pdf` → **`IEA-SYSTEM.md`** ✅ (Reconstruction Arc — collapse frame)
+- `A Way Back to Yourself.pdf` → **`IEA-WAY-BACK.md`** ✅ (Return Arc — leader/transition frame)
 
 ## How the 6 Steps Map to the Top 3 Titles
 
@@ -87,6 +87,36 @@ Example headlines:
 2. The Underlayer — where the deeper shift becomes visible
 3. Internal Architecture — the structure beneath your identity
 4. Thinning → Dissolving → Reforming — the phases of transformation
+
+## The Two Arcs — one system, two namings (⚠ decision point)
+The same 6-phase arc appears under two namings across the source documents:
+
+| Reconstruction Arc (`IEA-SYSTEM.md`, collapse frame) | Return Arc (`IEA-WAY-BACK.md`, leader frame) |
+|---|---|
+| 1. Recognition | 1. Identity Gap |
+| 2. Descent | 2. Emotional Reflex Map |
+| 3. Stabilization | 3. Internal Posture |
+| 4. Reconstruction | 4. Belonging to Self |
+| 5. Integration | 5. Structural Clarity |
+| 6. Emergence | 6. Embodiment |
+
+Rough 1:1 correspondence; step 4 overlaps Belonging to Self + Structural Clarity.
+**Working rule:** Reconstruction names for Medium essays (identity-collapse frame, sharper for
+founders); Return names inside the program itself. Author to confirm one public naming.
+
+## Audience refinement (from `IEA-WAY-BACK.md`)
+Founders and leaders **in career and relationship transition** — VPs in transition, founders
+after divorce/burnout/exit. Master framing: *"A structured return for leaders whose outer
+success no longer matches their inner truth."*
+
+## Funnel & publishing rules for Medium
+- **Give the architecture, never the offer.** No module lists, no "What You Receive," no
+  testimonials inside essays. End quietly; at most one line pointing to the work.
+- Carry the disclaimer on published posts (educational; not mental-health/medical/legal advice).
+- Full language bank lives in `IEA-WAY-BACK.md`. Key deployments:
+  - Thesis (#3) closes on: *"A person does not become someone new. Something returns."*
+  - Essay (#1) opens with the boardroom/car image; closes on *"I can finally hear myself again."*
+  - Manifesto (#2) leans on: *"Your system learned to survive before it learned to lead."*
 
 ## Current Top 3 Titles (chosen 2026-09-10, ranked by readability)
 1. **"When the Company Becomes Your Personality"** — Lane 2, first-person essay.

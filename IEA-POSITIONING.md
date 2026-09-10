@@ -70,9 +70,23 @@ Example headlines:
 - First-person essays with a named framework woven in (not sold) outperform listicles in these tags.
 - Voice: quiet authority. Writes as someone who has been there, not someone selling a ladder.
 
-## Reference documents (author to re-attach if lost)
-- `THE 6-STEP IEA SYSTEM.pdf`
-- `A Way Back to Yourself.pdf`
+## Reference documents
+- `THE 6-STEP IEA SYSTEM.pdf` → full text now canonicalized in **`IEA-SYSTEM.md`** ✅
+- `A Way Back to Yourself.pdf` — not yet received in workspace (pasted text still welcome)
+
+## How the 6 Steps Map to the Top 3 Titles
+
+| Title | IEA steps it uses | Role of the piece |
+|---|---|---|
+| **"Your Company Can't Outgrow Your Inner Architecture"** (publish 1st) | Steps 1–2 front-loaded: Recognition (the ceiling becomes visible) + Descent (the Underlayer that has been running the company). Ends by revealing the full 6-step map as "the rest of the staircase." | Thesis. Signature line: *"Collapse is not a motivation problem. It is an architecture problem."* |
+| **"When the Company Becomes Your Personality"** (publish 2nd) | The full arc as lived narrative: Recognition (the mask cracks) → Descent (the truth beneath the performance) → Stabilization (learning to hold myself) → Reconstruction (new reflexes, boundaries) → Integration (life matches the inner structure) → Emergence as the quiet close: *"I am no longer who I was."* | Demonstration. The reader walks the system inside a story. |
+| **"You Don't Need a Coach. You Need a Way Back to Yourself."** (publish 3rd) | All 6 steps presented as the map that makes coaching unnecessary — a sequence, a structure, a way to rebuild without collapsing again. | Manifesto. Lines to deploy: *"This is not mindset work. This is identity reconstruction."* Close with the Closing Anchor from `IEA-SYSTEM.md`. |
+
+### Content queue after the Top 3 (from IEA-SYSTEM.md canonical concepts)
+1. Identity Collapse — when the old structure breaks
+2. The Underlayer — where the deeper shift becomes visible
+3. Internal Architecture — the structure beneath your identity
+4. Thinning → Dissolving → Reforming — the phases of transformation
 
 ## Current Top 3 Titles (chosen 2026-09-10, ranked by readability)
 1. **"When the Company Becomes Your Personality"** — Lane 2, first-person essay.

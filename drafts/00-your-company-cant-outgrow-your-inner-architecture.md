@@ -3,7 +3,7 @@
 > **Title:** Your Company Can't Outgrow Your Inner Architecture
 > **Subtitle:** The ceiling you keep hitting isn't in the market.
 > **Tags:** Psychology · Leadership · Startup · Business · Culture
-> **Arc:** Recognition + Descent front-loaded; the full 6-step map revealed as "the rest of the staircase" at the end.
+> **Arc:** Identity Gap + Emotional Reflex Map front-loaded; the full 6-phase map (Unified IEA Naming) revealed as "the rest of the staircase" at the end.
 > **Publish order:** FIRST of the three.
 > **Rule honored:** Give the architecture, never the offer.
 

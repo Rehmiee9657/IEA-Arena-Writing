@@ -35,7 +35,7 @@ The answer arrived before the question even finished landing. Polished. Instant.
 
 What unsettled me wasn't the answer. It was the silence that followed it — because I went looking for a second one, and there wasn't anything there.
 
-Most founders never notice the merger taking place: the company slowly becoming the personality, one reasonable decision at a time. There's no announcement. No signature. You just look up one night at a dinner table and realize the answer to "who are you" has only one line, and it's the company's.
+Most founders never notice the merger taking place: the company slowly becoming the personality, one reasonable decision at a time. There's no announcement. No signature. You just look up one night at a dinner table and realise the answer to "who are you" has only one line, and it's the company's.
 
 ---
 

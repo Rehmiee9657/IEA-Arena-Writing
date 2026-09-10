@@ -21,7 +21,7 @@ I know, because I ran one that way for years. And I can tell you the exact shape
 
 ## The invisible blueprint
 
-A company inherits more than its founder's DNA. It inherits the founder's emotional reflexes — every one of them, industrialized.
+A company inherits more than its founder's DNA. It inherits the founder's emotional reflexes — every one of them, industrialised.
 
 The founder who can't bear to disappoint anyone hires layers of people whose real job is to say no on their behalf. Then wonders why the company can't decide.
 
@@ -39,7 +39,7 @@ Here is the mechanism nobody warns you about, because it looks like success.
 
 At 10 people, the company amplifies you. Your urgency becomes the team's urgency. Your 2 a.m. standards become everyone's working hours.
 
-At 50, it institutionalizes you. Your reflexes harden into process, your moods into policy. What you avoid, the org chart routes around. What you fear, hiring quietly screens for.
+At 50, it institutionalises you. Your reflexes harden into process, your moods into policy. What you avoid, the org chart routes around. What you fear, hiring quietly screens for.
 
 At 200, it becomes you. The founder is gone from most rooms, and the rooms behave as if the founder were in all of them.
 
@@ -89,7 +89,7 @@ There is a sequence to this, and the sequence matters — skip a step and you ge
 
 **5. Structural Clarity** — The rebuild of boundaries, decisions, and internal architecture. What is yours, what is not, what gets released, what gets built. Decisions stop feeling forced.
 
-**6. Embodiment** — Not a breakthrough. A quiet realization: *I am no longer who I was.* The moment you feel like the man who built his life again. The new identity is not louder. It is clearer.
+**6. Embodiment** — Not a breakthrough. The quiet moment you realise: *I feel like myself again.* The moment you feel like the man who built his life again. The rebuilt identity is not louder. It is clearer. More grounded. More stable.
 
 Mindset work starts at step 4 and skips the first three — which is exactly why it doesn't hold. **Identity does not change from the surface. Identity changes from architecture.**
 

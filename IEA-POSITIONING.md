@@ -79,7 +79,7 @@ Example headlines:
 | Title | IEA steps it uses | Role of the piece |
 |---|---|---|
 | **"Your Company Can't Outgrow Your Inner Architecture"** (publish 1st) | Phases 1–2 front-loaded: Identity Gap (the ceiling becomes visible) + Emotional Reflex Map (the Underlayer that has been running the company). Ends by revealing the full 6-phase map as "the rest of the staircase." | Thesis. Signature line: *"Collapse is not a motivation problem. It is an architecture problem."* |
-| **"When the Company Becomes Your Personality"** (publish 2nd) | The full arc as lived narrative: Identity Gap (the mask cracks) → Emotional Reflex Map (the truth beneath the performance) → Internal Posture (learning to hold myself) → Belonging to Self + Structural Clarity (new reflexes, boundaries) → Embodiment as the quiet close: *"I am no longer who I was."* | Demonstration. The reader walks the system inside a story. |
+| **"When the Company Becomes Your Personality"** (publish 2nd) | The full arc as lived narrative: Identity Gap (the mask cracks) → Emotional Reflex Map (the truth beneath the performance) → Internal Posture (learning to hold myself) → Belonging to Self + Structural Clarity (new reflexes, boundaries) → Embodiment as the quiet close: *"I feel like myself again."* | Demonstration. The reader walks the system inside a story. |
 | **"You Don't Need a Coach. You Need a Way Back to Yourself."** (publish 3rd) | All 6 phases presented as the map that makes coaching unnecessary — a sequence, a structure, a way to rebuild without collapsing again. | Manifesto. Lines to deploy: *"This is not mindset work. This is identity reconstruction."* Close with the Closing Anchor from `IEA-SYSTEM.md`. |
 
 ### Content queue after the Top 3 (from IEA-SYSTEM.md canonical concepts)
@@ -88,10 +88,44 @@ Example headlines:
 3. Internal Architecture — the structure beneath your identity
 4. Thinning → Dissolving → Reforming — the phases of transformation
 
-## The Two Arcs — one system, two namings (⚠ decision point)
-The same 6-phase arc appears under two namings across the source documents:
+### THE ARCHITECTURE SERIES (flagship follow-up to the trilogy)
+One Medium essay per phase of the Unified System — six essays, each with the phase name
+as the title's spine, each closing the same way (quietly, one line pointing to the work):
+1. The Identity Gap — when success outgrows the identity carrying it
+2. The Emotional Reflex Map — the patterns that choose before you do
+3. Internal Posture — the structural reset that steadies you under pressure
+4. Belonging to Self — the identity you abandoned while becoming useful to everyone else
+5. Structural Clarity — what is yours, what is not, what gets rebuilt
+6. Embodiment — "I feel like myself again."
+This series turns the system into a searchable body of work — one canonical URL per phase.
 
-| Reconstruction Arc (`IEA-SYSTEM.md`, collapse frame) | Return Arc (`IEA-WAY-BACK.md`, leader frame) |
+## ✅ The Unified IEA Naming — FINAL (author decision)
+These six names are **the one public naming** — for essays, Notes, the paid tier, and the
+entire identity-architecture brand. It hits the reader where he is now. It sells the system.
+
+> **Canon v1.1 (author refinement):** the authoritative step definitions now live in
+> **`IEA-SYSTEM.md`** — the single source of truth, including anchor quotes
+> (*"This structure can no longer hold."* / *"I feel like myself again."*), frozen
+> decisions, and permitted spoken variants. Essences below retained for traceability.
+
+| # | Step | Canonical essence (v1.0 — full v1.1 text in `IEA-SYSTEM.md`) |
+|---|---|---|
+| 1 | **Identity Gap** | The moment you see the collapse clearly. |
+| 2 | **Emotional Reflex Map** | The deeper layer beneath the collapse. |
+| 3 | **Internal Posture** | The rebuild of internal safety. |
+| 4 | **Belonging to Self** | The formation of the new internal structure. |
+| 5 | **Structural Clarity** | The alignment between your rebuilt identity and your external life. |
+| 6 | **Embodiment** | The return to the rebuilt identity. |
+
+- **Reader pronoun: him.** Primary reader is a male founder/leader in transition. Public
+  essays still address "you"; the canon speaks of "him."
+- **Consistency rule:** never mix these with the legacy names in public. One vocabulary,
+  everywhere — articles, Notes, paid tier.
+
+## The Two Arcs — historical record (pre-decision)
+The same 6-phase arc appeared under two namings across the source documents:
+
+| Reconstruction Arc (legacy collapse frame) | Return Arc (`IEA-WAY-BACK.md`, leader frame) |
 |---|---|
 | 1. Recognition | 1. Identity Gap |
 | 2. Descent | 2. Emotional Reflex Map |
@@ -101,8 +135,7 @@ The same 6-phase arc appears under two namings across the source documents:
 | 6. Emergence | 6. Embodiment |
 
 Rough 1:1 correspondence; step 4 overlaps Belonging to Self + Structural Clarity.
-**Working rule:** Reconstruction names for Medium essays (identity-collapse frame, sharper for
-founders); Return names inside the program itself. Author to confirm one public naming.
+**RESOLVED:** the Unified Naming above is final; legacy names are internal traceability only.
 
 ## Audience refinement (from `IEA-WAY-BACK.md`)
 Founders and leaders **in career and relationship transition** — VPs in transition, founders

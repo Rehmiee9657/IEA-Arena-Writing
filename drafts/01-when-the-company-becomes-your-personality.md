@@ -52,13 +52,13 @@ The nothing was the sound of a structure giving way. The version of me that had 
 
 ## Down there
 
-Here is what no one tells you about that sentence: once it's true, you can't unhear it. And you can't fix it from the surface. Not with a routine. Not with a retreat. Not with another optimization of a life whose problem was never efficiency.
+Here is what no one tells you about that sentence: once it's true, you can't unhear it. And you can't fix it from the surface. Not with a routine. Not with a retreat. Not with another optimisation of a life whose problem was never efficiency.
 
 So I did the thing high-functioning people are worst at. I stopped. And I sank.
 
 Down there, beneath the performance, I met the structure that had actually been running everything. Not the company. Me. The reflexes were older than the business — older than the pitch deck, older than the first invoice. Somewhere long ago, before I ever led anyone, I had learned that I was safest when I was useful, admired, and essential. So I built a company that made me all three, every day, at scale.
 
-I hadn't started a business. I had industrialized a survival pattern.
+I hadn't started a business. I had industrialised a survival pattern.
 
 The company had learned to survive the way I had learned to survive: by performing, by anticipating every room, by never letting anyone see a seam. Of course the wins felt like oxygen. Of course the quiet months felt like death. My system wasn't responding to the business. It was responding to the threat of not being needed.
 
@@ -94,7 +94,9 @@ I still sit in the car after meetings sometimes. But I can move now.
 
 The company is mine again, instead of being me. I can hear bad news without disappearing. I can be disagreed with in a boardroom and not spend the evening rehearsing my defense. The dinner-party question still gets a fast answer — but there's a second one now, and a third.
 
-I am no longer who I was. The new version is not louder. It is clearer.
+I am no longer who I was. The new version is not louder. It is clearer. More grounded. More stable.
+
+And underneath all of it, the quietest sentence of all: *I feel like myself again.*
 
 If any of this is familiar — the parked car, the no-second-answer, the milestone that felt like nothing — then hear the only thing I truly know about it: you don't have a motivation problem, and you don't need a better routine. Something in you is asking for a way back to yourself.
 

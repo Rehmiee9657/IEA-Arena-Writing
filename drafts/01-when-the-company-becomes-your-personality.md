@@ -3,7 +3,7 @@
 > **Title:** When the Company Becomes Your Personality
 > **Subtitle:** The most dangerous merger is the one no one announces.
 > **Tags:** Mental Health · Entrepreneurship · Psychology · Life Lessons · Leadership
-> **Arc:** All six steps woven as lived story (Recognition → Descent → Stabilization → Reconstruction → Integration → Emergence) — never named as steps.
+> **Arc:** All six phases woven as lived story (Identity Gap → Emotional Reflex Map → Internal Posture → Belonging to Self → Structural Clarity → Embodiment) — never named as steps.
 > **Rule honored:** Give the architecture, never the offer. One quiet line points to the work. Disclaimer rides at the end.
 
 ---
@@ -64,7 +64,7 @@ The company had learned to survive the way I had learned to survive: by performi
 
 That is the moment things began to shift — not when I understood my market better, but when I saw the architecture beneath my behavior clearly enough that it started to lose its power over me.
 
-Descent doesn't feel like insight while you're in it. It feels like sinking. But it isn't falling. It's entering the real foundation.
+Going under doesn't feel like insight while you're in it. It feels like sinking. But it isn't falling. It's entering the real foundation.
 
 ## Holding
 

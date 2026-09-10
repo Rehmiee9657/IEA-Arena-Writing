@@ -79,17 +79,17 @@ Which means the foundation is also where the rebuilding begins.
 
 There is a sequence to this, and the sequence matters — skip a step and you get a renovation that collapses at the next earthquake. The map, briefly:
 
-**1. Recognition** — See the collapse without resisting it. Nothing can be rebuilt until it is seen clearly.
+**1. Identity Gap** — The moment success outgrows the identity carrying it. You stop pretending the ceiling isn't there. Nothing can be rebuilt until the gap is named with precision.
 
-**2. Descent** — Enter the layer beneath the behavior. Not falling — the real foundation.
+**2. Emotional Reflex Map** — The patterns that pull you out of internal authority: the loops that choose before you do, the triggers that fire in rooms that only feel dangerous. Once seen clearly, they lose their power.
 
-**3. Stabilization** — Rebuild internal safety before external strategy. A shaking system can't hold a new structure.
+**3. Internal Posture** — The structural reset that steadies you under pressure. Collapse becomes center. Bracing becomes presence. A shaking system can't hold a new structure, so the steadiness comes first.
 
-**4. Reconstruction** — Build the architecture that can finally hold who you already are. Not a new personality. New emotional reflexes, new internal posture, boundaries that don't need to be defended with anger.
+**4. Belonging to Self** — The return to the identity you abandoned while becoming useful to everyone else. Staying with yourself when the pressure rises, instead of leaving through the nearest available performance.
 
-**5. Integration** — Let the external world match the internal one. New decisions, new behaviors, a new relationship with pressure.
+**5. Structural Clarity** — The rebuild of boundaries, decisions, and internal architecture. What is yours, what is not, what gets released, what gets built. Decisions stop feeling forced.
 
-**6. Emergence** — Not a breakthrough. A quiet realization: *I am no longer who I was.* The new identity is not louder. It is clearer.
+**6. Embodiment** — Not a breakthrough. A quiet realization: *I am no longer who I was.* The moment you feel like the man who built his life again. The new identity is not louder. It is clearer.
 
 Mindset work starts at step 4 and skips the first three — which is exactly why it doesn't hold. **Identity does not change from the surface. Identity changes from architecture.**
 

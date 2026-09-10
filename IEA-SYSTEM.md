@@ -1,4 +1,10 @@
 # THE 6-STEP IEA SYSTEM
+> **⚠ NAMING NOTE:** The names below (Recognition, Descent, Stabilization, Reconstruction,
+> Integration, Emergence) are now **legacy/internal**. The author has finalized the
+> **Unified IEA Naming** (Identity Gap, Emotional Reflex Map, Internal Posture, Belonging
+> to Self, Structural Clarity, Embodiment) as the only public vocabulary — see
+> `IEA-POSITIONING.md`. This document remains the canon for the *substance* of each step.
+
 *The architecture for rebuilding yourself after an identity collapse.*
 **Rehmiee · Jun 13, 2026** · *"If you've been rebuilding yourself quietly, this is the architecture behind that process."*
 

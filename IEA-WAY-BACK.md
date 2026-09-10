@@ -1,4 +1,8 @@
 # A WAY BACK TO YOURSELF
+> **✅ AUTHOR DECISION (final):** These six phase names are **THE unified IEA naming** —
+> the only names used in public: essays, Notes, paid tier, brand. Canonical one-line
+> essences live in `IEA-POSITIONING.md`.
+
 *A Strong, Structured Path to Identity Clarity — The 6-Step Inner Emotional Architecture System*
 **Rehmiee · Jun 25, 2026** · *"A structured return for leaders whose outer success no longer matches their inner truth."*
 

@@ -73,3 +73,15 @@ Example headlines:
 ## Reference documents (author to re-attach if lost)
 - `THE 6-STEP IEA SYSTEM.pdf`
 - `A Way Back to Yourself.pdf`
+
+## Current Top 3 Titles (chosen 2026-09-10, ranked by readability)
+1. **"When the Company Becomes Your Personality"** — Lane 2, first-person essay.
+   Tags: Mental Health, Entrepreneurship, Psychology, Life Lessons, Leadership.
+2. **"You Don't Need a Coach. You Need a Way Back to Yourself."** — Lane 3, manifesto.
+   Tags: Mental Health, Psychology, Leadership, Life Lessons, +1.
+3. **"Your Company Can't Outgrow Your Inner Architecture"** — Lane 1, thesis/evergreen.
+   Tags: Psychology, Leadership, Startup, Business, +1.
+
+Suggested publish order: #3 (thesis) → #1 (personal story) → #2 (manifesto).
+NOTE: The two reference PDFs have not yet synced into the workspace — only their
+filenames arrived. Once available, weave the 6 IEA steps into article outlines.

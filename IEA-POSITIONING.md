@@ -1,6 +1,8 @@
 # IEA — Inner Emotional Architecture
 *Positioning & Content Strategy — source of truth for this repo. Every article, draft, and idea here must align with this file.*
 
+> **⚖️ Voice law:** every draft must conform to **`IEA-VOICE.md`** (human-crack openings, no rhetorical questions, no bolded punchlines, reflective doorways for endings). Voice file wins over any draft.
+
 ## What IEA Is
 **IEA = Inner Emotional Architecture.** An original framework created by the author.
 

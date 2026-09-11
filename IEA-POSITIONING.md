@@ -147,6 +147,10 @@ success no longer matches their inner truth."*
 ## Funnel & publishing rules for Medium
 - **Give the architecture, never the offer.** No module lists, no "What You Receive," no
   testimonials inside essays. End quietly; at most one line pointing to the work.
+- **Doorway link (the one allowed CTA):** after the final line of the story, one italic line
+  linking to the next/related IEA story (e.g. the Identity Gap essay). Formula:
+  *"If you're standing where I stood, the beginning has a name — [phase]. I wrote about it here: [link]"*
+  Never link to sales pages inside stories; link only to other stories.
 - Carry the disclaimer on published posts (educational; not mental-health/medical/legal advice).
 - Full language bank lives in `IEA-WAY-BACK.md`. Key deployments:
   - Thesis (#3) closes on: *"A person does not become someone new. Something returns."*

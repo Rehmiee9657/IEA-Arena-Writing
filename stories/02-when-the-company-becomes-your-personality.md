@@ -36,6 +36,8 @@ The rebuilt identity is not louder. It is clearer. And underneath all of it, qui
 
 Some evenings the car still gets its ten minutes. The difference is that no one is performing in it now — not the founder, not the brand, not the version of me that couldn't leave a room. Just a man in a parked car, going nowhere, holding nothing up. The company learned to run on that. So did I.
 
+*If you're standing where I stood, the beginning has a name — the Identity Gap. I wrote about it here: [PASTE YOUR IDENTITY GAP ARTICLE URL]*
+
 ---
 
 *Rehmiee creates clarity by revealing the identity beneath your emotional architecture. No noise. Just clarity with depth.*

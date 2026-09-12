@@ -124,6 +124,22 @@ entire identity-architecture brand. It hits the reader where he is now. It sells
 - **Consistency rule:** never mix these with the legacy names in public. One vocabulary,
   everywhere — articles, Notes, paid tier.
 
+## AI-era audience doctrine (decided 2026-09-12)
+IEA speaks to the **quietly worried, high-performing pre-fear reader** — not the acute
+AI-panic crowd, not the no-fear crowd.
+- Acute fear (~half of workers): saturated lane, wants hacks, wrong register. Never chase.
+- No fear: unmotivated; the body of work waits for them.
+- Pre-fear senior performer (feels the ground move, still performs): the reader. Empty lane,
+  perfect fit for the Identity Gap frame, trust compounds before his acute moment arrives.
+- The AI frame for essays: AI isn't taking his job — it's devaluing, in real time, the
+  identity his life was built on (expert, smartest, needed). Identity Gap, delivered mid-climb.
+- Never lead with fear words. Lead with naming: "Something moved under you this year."
+- Grounding stats (2026): 52% of workers worried about AI at work; ~third overwhelmed; 49%
+  fear personally losing job to AI; 24% already AI-harming mental health; managers: 40% new
+  mental-health diagnosis vs 13% non-managers; 65% hide struggles to avoid looking weak.
+- Flagship angles: "AI Isn't Taking Your Job. It's Taking the Identity Your Job Was
+  Carrying." / "Half Your Team Is Frightened of AI. So Are You. Nobody's Saying It."
+
 ## The Two Arcs — historical record (pre-decision)
 The same 6-phase arc appeared under two namings across the source documents:
 
